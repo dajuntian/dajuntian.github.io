@@ -1,11 +1,4 @@
 ---
 title: "My Website"
 ---
-# Hi, there
-
-## This is me
-
-- list 1
-- list 2
-
-What?
+Hi there, this is me. I love crunching numbers and solving equations. I am always learning something new, like writing a webpage now. I write SAS Macro, wrap up R package, play with Python and also publish papers. English is not my native language and I usually catch 80% of what people are talking. And looks like 80% is enough. 
